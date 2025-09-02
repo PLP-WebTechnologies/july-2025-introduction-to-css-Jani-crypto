@@ -1,0 +1,12 @@
+body { font-family: sans-serif; background:#f9f9f9; text-align:center; }
+
+.title { color:#e63946; }
+
+.card {
+  background:white;
+  border:2px solid #e63946;
+  padding:20px;
+  margin:30px auto;
+  width:200px;
+  border-radius:10px;
+}
